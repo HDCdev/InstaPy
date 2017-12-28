@@ -12,6 +12,5 @@ setup(
     author_email='contact.timgrossmann@gmail.com',
     url='https://github.com/timgrossmann/InstaPy',
     py_modules='instapy',
-    description=description,
-    install_requires=requirements
+    description=description
 )
